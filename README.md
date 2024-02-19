@@ -10,7 +10,7 @@ Beberapa Project yang sudah saya kembangkan antara lain<br>
   
 Kemampuan dan Skill
 --
-* PHP
+* PHP 100% ████████████████████████████████████████████████████████████████████████████████████████
 * C++
 * Kotlin Dasar
 * Framework Laravel dan Codeigniter
