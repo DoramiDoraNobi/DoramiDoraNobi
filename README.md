@@ -46,7 +46,7 @@ Here are some of the projects I've been working on:
 ###  GitHub Stats
 
 ![Mikail's GitHub stats](https://github-readme-stats.vercel.app/api?username=DoramiDoraNobi&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoramiDoraNobi&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DoramiDoraNobi&layout=compact&theme=radical&hide=html,css)
 
 ---
 
